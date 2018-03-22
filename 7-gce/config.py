@@ -108,3 +108,4 @@ ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 GOOGLE_OAUTH2_CLIENT_ID = \
     'your-client-id'
 GOOGLE_OAUTH2_CLIENT_SECRET = 'your-client-secret'
+
