@@ -32,7 +32,7 @@ DATA_BACKEND = 'datastore'
 
 # Google Cloud Project ID. This can be found on the 'Overview' page at
 # https://console.developers.google.com
-PROJECT_ID = 'your-project-id'
+PROJECT_ID = 'ch-44pbkj0txmo3e7dlpk51x4kzd67'
 
 # CloudSQL & SQLAlchemy configuration
 # Replace the following values the respective values of your Cloud SQL
@@ -87,7 +87,7 @@ MONGO_URI = 'mongodb://user:password@host:27017/database'
 #
 # You can adjust the max content length and allow extensions settings to allow
 # larger or more varied file types if desired.
-CLOUD_STORAGE_BUCKET = 'your-project-id'
+CLOUD_STORAGE_BUCKET = 'ch-44pbkj0txmo3e7dlpk51x4kzd67-bookshelf'
 MAX_CONTENT_LENGTH = 8 * 1024 * 1024
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 
